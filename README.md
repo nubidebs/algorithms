@@ -7,19 +7,14 @@ This repos contains the solution of my daily katas. Each solution contains the f
 
 In this Express exercise, your task is to create an app that responds to `GET` and`POST` requests on the `/` route. The responses will echo a message string from the request.
 
-```js
-GET /
-```
+`GET /`
 
 This route will read the message parameter and send a `JSON` response containing the echoed message value. The response should have a 200 status.
-
 An example query string is ?message=hello which would be echoed as `{"message": "hello"}`. An empty string, ?message=, is valid and should be echoed normally.
 
 Respond with a `422` status when no query parameter message exists, or if the message type is other than a string. The Content-Type header should be set to `text/plain` rather than `application/json` in this case.
 
-```js
-POST /
-```
+`POST /`
 
 This route will parse the request body as `JSON` and echo a response containing the value from the "message" key of the request. The JSON response is in the same format as the `GET` above: `{"message": "some message"}`. Set a 200 status on the response to indicate that the request was OK. An empty string `("message": "")` is valid and should be echoed.
 
