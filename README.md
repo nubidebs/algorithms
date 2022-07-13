@@ -92,3 +92,21 @@ hyphens/dashes ("-") for negative numbers do count towards the length
 the resulting string must be truncated to the exact length provided
 return an empty string if maximum < minimum or length == 0
 minimum and maximum can equal one another and result in a single number repeated for the length of the string
+
+## [Last digit of a very large number](https://www.codewars.com/kata/5511b2f550906349a70004e1) (5kyu)
+
+Define a function that takes in two non-negative integers `a` and `b` and returns the last decimal digit of `a^b`.
+Note that `a` and `b` may be very large!
+
+For example, the last decimal digit of `9^7` is `9`, since `9^7`=`47829699`.
+
+You may assume that the input will always be valid.
+
+Examples
+
+```js
+lastDigit('4', '1'); // returns 4
+lastDigit('4', '2'); // returns 6
+lastDigit('9', '7'); // returns 9
+lastDigit('10', '10000000000'); // returns 0
+```
