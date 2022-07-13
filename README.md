@@ -110,3 +110,24 @@ lastDigit('4', '2'); // returns 6
 lastDigit('9', '7'); // returns 9
 lastDigit('10', '10000000000'); // returns 0
 ```
+
+## [Mirror Object](hhttps://www.codewars.com/kata/586305e8916e244b66001a93) (6kyu)
+
+Can you mirror the properties on an object?
+
+Given an object with properties with no value
+
+```
+abc: -
+arara: -
+xyz: -
+```
+
+Return a new object that have the properties with its mirrored key!
+
+```
+abc: cba
+arara: arara
+xyz: zyx
+"You cannot change the original object, because if you did that the reflection would change."
+```
