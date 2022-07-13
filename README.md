@@ -111,7 +111,7 @@ lastDigit('9', '7'); // returns 9
 lastDigit('10', '10000000000'); // returns 0
 ```
 
-## [Mirror Object](hhttps://www.codewars.com/kata/586305e8916e244b66001a93) (6kyu)
+## [Mirror Object](https://www.codewars.com/kata/586305e8916e244b66001a93) (6kyu)
 
 Can you mirror the properties on an object?
 
@@ -130,4 +130,12 @@ abc: cba
 arara: arara
 xyz: zyx
 "You cannot change the original object, because if you did that the reflection would change."
+```
+
+## [Move Zeros to the end](https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/javascript) (6kyu)
+
+Write an algorithm that takes an array and moves all of the zeros to the end, preserving the order of the other elements.
+
+```js
+moveZeros([false, 1, 0, 1, 2, 0, 1, 3, 'a']); // returns[false,1,1,2,1,3,"a",0,0]
 ```
