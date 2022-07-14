@@ -140,7 +140,7 @@ Write an algorithm that takes an array and moves all of the zeros to the end, pr
 moveZeros([false, 1, 0, 1, 2, 0, 1, 3, 'a']); // returns[false,1,1,2,1,3,"a",0,0]
 ```
 
-## [trip Comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd/train/javascript) (4kyu)
+## [Strip Comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd/train/javascript) (4kyu)
 
 Complete the solution so that it strips all text that follows any of a set of comment markers passed in. Any whitespace at the end of the line should also be stripped out.
 
