@@ -12,7 +12,7 @@ e.g. [10, 9, 6, 2] --> 'no profit'
 
 */
 
-const coulculateProfit = (prices) => {
+const caulculateProfit = (prices) => {
   let max;
   let min;
 
@@ -39,4 +39,4 @@ const coulculateProfit = (prices) => {
   return profit;
 };
 
-coulculateProfit([10, 6, 2, 300]);
+calculateProfit([10, 6, 2, 300]);
