@@ -111,6 +111,36 @@ lastDigit('9', '7'); // returns 9
 lastDigit('10', '10000000000'); // returns 0
 ```
 
+## [Linked List](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list)
+
+This is an to practice traversing a linked list. Given a pointer to the head node of a linked list, print each node's  element, one per line. If the head pointer is `null` (indicating the list is empty), there is nothing to print.
+
+__Function Description__
+Complete the printLinkedList function in the editor below.
+`printLinkedList` has the following parameter(s):
+    - `SinglyLinkedListNode head`: a reference to the head of the list
+
+__Print__
+    - For each node, print its  value on a new line (console.log in Javascript).
+
+__Input Format__
+    - The first line of input contains , the number of elements in the linked list.
+    - The next  lines contain one element each, the  values for each node.
+```
+Sample Input
+2
+16
+13
+Sample Output
+16
+13
+```
+Explanation
+
+There are two elements in the linked list. They are represented as 16 -> 13 -> NULL. So, the printLinkedList function should print 16 and 13 each on a new line.
+*/
+
+
 ## [Mirror Object](https://www.codewars.com/kata/586305e8916e244b66001a93) (6kyu)
 
 Can you mirror the properties on an object?
