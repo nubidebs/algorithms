@@ -1,7 +1,6 @@
-# Katas
+# Algos
 
-Every morning I try to do a kata to wake up my brain before working.
-This repos contains the solution of my daily katas. Each solution contains the first passing attempt and the refactored version.
+This repos contains the solution of the algo I solved so far.
 
 ## [Express: Echo server](https://www.codewars.com/kata/62bf6fa7eccf8e000f9cae60) (6kyu)
 
