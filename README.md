@@ -7,6 +7,7 @@ This repos contains the solution of the algo I solved so far.
 ## [Does my number look big in this](https://www.codewars.com/kata/5287e858c6b5a9678200083c/javascript) (6kyu)
 ## [Ascend, Descend, Repeat?](https://www.codewars.com/kata/62ca07aaedc75c88fb95ee2f) (6kyu)
 ## [Last digit of a very large number](https://www.codewars.com/kata/5511b2f550906349a70004e1) (5kyu)
+## [Left Rotation](https://www.hackerrank.com/challenges/array-left-rotation)
 ## [Linked List - insert a node](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list)
 ## [Linked List - insert a node at a specific position](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list)
 ## [Linked List - print nodes](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list)
