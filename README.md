@@ -11,6 +11,7 @@ This repos contains the solution of the algo I solved so far.
 ## [Linked List - insert a node](https://www.hackerrank.com/challenges/insert-a-node-at-the-head-of-a-linked-list)
 ## [Linked List - insert a node at a specific position](https://www.hackerrank.com/challenges/insert-a-node-at-a-specific-position-in-a-linked-list)
 ## [Linked List - print nodes](https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list)
+## [Max Frequency Elements](https://leetcode.com/problems/count-elements-with-maximum-frequency/)
 ## [Mirror Object](https://www.codewars.com/kata/586305e8916e244b66001a93) (6kyu)
 ## [Move Zeros to the end](https://www.codewars.com/kata/52597aa56021e91c93000cb0/train/javascript) (6kyu)
 ## [Strip Comments](https://www.codewars.com/kata/51c8e37cee245da6b40000bd/train/javascript) (4kyu)
