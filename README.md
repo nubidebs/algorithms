@@ -18,3 +18,5 @@ This repos contains the solution of the algo I solved so far.
 ## [Extract the domain name from a URL](https://www.codewars.com/kata/514a024011ea4fb54200004b/javascript) (5kyu)``
 ## [Directions Reduction](https://www.codewars.com/kata/550f22f4d758534c1100025a/javascript) (5kyu)
 ## [RGB To Hex Conversion](https://www.codewars.com/kata/513e08acc600c94f01000001/javascript) (5kyu)
+## [Remove Duplicates from sorted array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description)
+
